@@ -18,7 +18,7 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 ### Tools and Technologies
 - Microsoft Office Suite (Word, Excel, PowerPoint, Access)
-- REST APIs, Git, VS Code, PyCharm, Eclipse, Android Studio, Notepad++, Google Colab, Jupyter Notebook
+- REST APIs, Git, VS Code, PyCharm, Eclipse, Android Studio, Google Colab, Jupyter Notebook
 
 ### Soft Skills
 - Problem-solving, Team Collaboration, Communication, Leadership, Adaptability, Analytical Thinking, Project Management, Time Management, Critical Thinking
