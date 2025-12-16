@@ -1,17 +1,17 @@
 # 💫 Hello! Welcome to Dev Patel's Github
 
-📱 Aspiring Software Engineer | Machine Learning Enthusiast <br>
-🎓 4th Year Computer Science Student at York University <br>
-🔍 Seeking Co-op/Entry Level Positions
+SDE Intern @ CentralSquare Technologies<br>
+Computer Science Graduate from York University <br>
+🔍 Seeking Entry Level Positions
 
 ## ✨ About Me
 
-I'm a passionate Computer Science student with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like Three Musketeers game, Typing Speed Checker, and Fruit & Vegetable Recognition model. 
+I'm a passionate Computer Science student with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like DriveBay App, NearMe_AI, and Fruit & AI Email Reply extension. 
 
 ## 💪 Skills
 
 ### Programming Languages
-- HTML, CSS, JavaScript, Python, R, Java, C++, C, Kotlin, SQL, PostgreSQL, ReactJS, NodeJS, Linux, RISC-V, Verilog
+- HTML, CSS, JavaScript, Python, C#, Swift, R, Java, C++, C, Kotlin, SQL, PostgreSQL, ReactJS, NodeJS, Linux
 
 ### Machine Learning & Data Science
 - TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
