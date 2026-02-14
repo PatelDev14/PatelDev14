@@ -6,7 +6,7 @@ Computer Science Graduate from York University <br>
 
 ## ✨ About Me
 
-I'm a passionate Computer Science student with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like DriveBay App, NearMe_AI, and Fruit & AI Email Reply extension. 
+I'm a passionate Computer Science student with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like DriveBay App, NearMe_AI, and AI Email Reply extension. 
 
 ## 💪 Skills
 
