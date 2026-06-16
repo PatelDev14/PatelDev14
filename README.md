@@ -1,12 +1,12 @@
 # 💫 Hello! Welcome to Dev Patel's Github
 
-SDE Intern @ CentralSquare Technologies<br>
+Application Specialist @ JANA Corporation<br>
 Computer Science Graduate from York University <br>
-🔍 Seeking Entry Level Positions
+🌱 Open to new opportunities
 
 ## ✨ About Me
 
-I'm a passionate Computer Science student with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like DriveBay App, NearMe_AI, and AI Email Reply extension. 
+I'm a passionate Computer Science graduate with a keen interest in software development and machine learning. I love tackling complex problems and creating innovative solutions that make a difference. I've successfully worked on projects like DriveBay App, CheckMe, and AI Email Reply extension. 
 
 ## 💪 Skills
 
@@ -18,7 +18,10 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 ### Tools and Technologies
 - Microsoft Office Suite (Word, Excel, PowerPoint, Access)
-- REST APIs, Git, VS Code, PyCharm, Eclipse, Android Studio, Google Colab, Jupyter Notebook
+- REST APIs, Git, VS Code, PyCharm, Eclipse, Android Studio, Google Colab, Jupyter Notebook, Xcode
+
+### Mobile Development
+- SwiftUI, Firebase, Gemini API, Apple Foundation Models, SwiftData
 
 ### Soft Skills
 - Problem-solving, Team Collaboration, Communication, Leadership, Adaptability, Analytical Thinking, Project Management, Time Management, Critical Thinking
@@ -27,7 +30,7 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,aws,css,js,html,python,ts,vercel,bootstrap,express,nextjs,react,tailwind,mongodb,mysql,postgres,linux,docker,kubernetes&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nodejs,aws,css,js,html,python,ts,vercel,bootstrap,express,nextjs,react,tailwind,mongodb,mysql,postgres,linux,docker,swift&perline=12" />
   </a>
 </p>
 
